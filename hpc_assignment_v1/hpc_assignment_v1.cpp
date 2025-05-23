@@ -48,8 +48,8 @@
 using namespace sycl;
 
 // === Configuration Flags ===
-constexpr int N = 1000;
-constexpr int ITERATIONS = 12;
+constexpr int N =1000;
+constexpr int ITERATIONS = 21;
 const bool VERBOSE_OUTPUT = false;  // Set to true to enable detailed output
 
 // === Benchmark Functions ===
