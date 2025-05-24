@@ -21,7 +21,7 @@ This project is part of our coursework for the *High Performance Computing* modu
 
 The specific goals of this assignment are as follows:
 
-* **Kernel Selection**: Implement an arithmetic element-wise square root operation.
+* **Kernel Selection**: Implement an **arithmetic element-wise square root** operation.
 * **Execution Modes**:
 
   * **CPU-only execution**: Utilizing `cpu_selector_v`.
